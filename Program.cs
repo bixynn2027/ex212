@@ -22,6 +22,7 @@ namespace ex212
             {
                 Console.WriteLine("2と3の公倍数です");
             }
+            Console.WriteLine("コミットテスト");
         }
     }
 }
